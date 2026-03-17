@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1>## Pat — Développeur web en formation 👋</h1>
+<h3>Ancien graphiste, je construis aujourd’hui des applications web avec une attention forte à l’UX, à la clarté et à la structure.  
+🎯 Recherche alternance 12 mois – à partir de juin 2026
+</h3>
+---
 
-<!--
-**patphiletas/patphiletas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 À propos
 
-Here are some ideas to get you started:
+Après plusieurs années en tant que maquettiste / graphiste dans l’édition (print & digitale), j’ai choisi de me reconvertir dans le développement web pour passer de la conception visuelle à la construction d’applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aujourd’hui en formation à Ada Tech School, je développe des applications full stack en m’appuyant sur une approche rigoureuse : comprendre les concepts, structurer proprement, puis implémenter.
+
+---
+
+## 🛠️ Stack
+
+**Frontend**  
+JavaScript · TypeScript · React · Next.js · HTML · CSS  
+
+**Backend**  
+Node.js · Express  
+
+**Outils & environnement**  
+Git · GitHub · Docker · Vercel · Neon · Cloudinary · Render · Drizzle · PostgreSQL
+
+---
+
+## 🚧 En ce moment
+
+- Développement de projets full stack (en cours)  
+- Approfondissement du backend (API, architecture, base de données)  
+- Travail des fondamentaux (algo, logique, clean code)  
+
+---
+
+## 🎯 Ce qui me caractérise
+
+- 🎨 Sens du détail et de l’expérience utilisateur (UX/UI)
+- 🧠 Capacité à comprendre en profondeur et à poser les bonnes questions  
+- 🧩 Approche structurée : logique, organisation, lisibilité du code  
+- 🔁 Habitude de produire, tester, corriger et améliorer  
+
+---
+
+## 🌱 En dehors du code
+
+- 🥁 Guitare, Batterie  
+- 🎨 Illustration & création visuelle  
+- 📚 Intérêt pour les projets mêlant tech et créativité  
+
+---
+
+## 📬 Me contacter
+
+- LinkedIn : www.linkedin.com/in/patricephiletas 
+- Email : patrice.philetas@gmail.com 
