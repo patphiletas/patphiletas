@@ -1,7 +1,7 @@
-<h1>## Pat — Développeur web en formation 👋</h1>
-<h3>Ancien graphiste, je construis aujourd’hui des applications web avec une attention forte à l’UX, à la clarté et à la structure.  
+<h2> Patrice — Développeur web en formation 👋</h2>
+<h4>Ancien graphiste, je construis aujourd’hui des applications web avec une attention forte à l’UX, à la clarté et à la structure.  
 🎯 Recherche alternance 12 mois – à partir de juin 2026
-</h3>
+</h4>
 ---
 
 ## 👨‍💻 À propos
