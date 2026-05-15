@@ -10,6 +10,8 @@ Après plusieurs années en tant que maquettiste / graphiste dans l’édition (
 
 Aujourd’hui en formation à Ada Tech School, je développe des applications full stack en m’appuyant sur une approche rigoureuse : comprendre les concepts, structurer proprement, puis implémenter.
 
+lien portfolio : https://portfoliopatphiletas.vercel.app/
+
 ---
 
 ## 🛠️ Stack
