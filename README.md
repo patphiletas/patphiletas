@@ -1,58 +1,189 @@
-<h2> Patrice — Développeur web en formation 👋</h2>
-<h4>Ancien graphiste, je construis aujourd’hui des applications web avec une attention forte à l’UX, à la clarté et à la structure.  
-🎯 Recherche alternance 12 mois – à partir de juin 2026
-</h4>
+<h1 align="center">👋 Bonjour, moi c'est Patrice Philétas</h1>
+
+<p align="center">
+Développeur <strong>Full Stack</strong> en reconversion • Passionné par les produits, l'IA et l'automatisation
+</p>
+
+<p align="center">
+🎯 <strong>À la recherche d'une alternance 12 mois (4j/1j)</strong><br>
+À partir de septembre 2026
+</p>
+
+<p align="center">
+<a href="https://portfoliopatphiletas.vercel.app/">🌐 Portfolio</a> •
+<a href="https://github.com/patphiletas">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/patricephiletas">💼 LinkedIn</a>
+</p>
+
 ---
 
 ## 👨‍💻 À propos
 
-Après plusieurs années en tant que maquettiste / graphiste dans l’édition (print & digitale), j’ai choisi de me reconvertir dans le développement web pour passer de la conception visuelle à la construction d’applications.
+Après plus de quinze ans dans l'édition en tant que graphiste et maquettiste, j'ai choisi de me reconvertir dans le développement logiciel.
 
-Aujourd’hui en formation à Ada Tech School, je développe des applications full stack en m’appuyant sur une approche rigoureuse : comprendre les concepts, structurer proprement, puis implémenter.
-
-lien portfolio : https://portfoliopatphiletas.vercel.app/
+Aujourd'hui, je développe des applications web et des outils autour de l'IA, des API et de l'automatisation avec une approche simple : **comprendre le besoin métier avant d'écrire du code.**
 
 ---
 
-## 🛠️ Stack
+## 🚀 Projets
 
-**Frontend**  
-JavaScript · TypeScript · React · Next.js · HTML · CSS  
+<table>
+<tr>
+<td width="50%">
 
-**Backend**  
-Node.js · Express  
+### 🚀 Kpratik
 
-**Outils & environnement**  
-Git · GitHub · Docker · Vercel · Neon · Cloudinary · Render · Drizzle · PostgreSQL
+Analyse automatiquement un site d'entreprise afin d'en extraire des signaux commerciaux :
+
+- Stack technique
+- Scoring SaaS B2B
+- DNS Intelligence
+- LLM
+- Enrichissement entreprise
+
+**Stack**
+
+Next.js • TypeScript • Tailwind • Zod • Vitest • OpenRouter • Groq
+
+</td>
+
+<td width="50%">
+
+### 📚 AlterNative
+
+Plateforme SaaS de gestion de manuscrits.
+
+- Import EPUB
+- Gestion des rôles
+- Commentaires
+- Emails
+- Cloudinary
+
+**Stack**
+
+Next.js • React • PostgreSQL • Drizzle • Better Auth
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎼 My Real Book
+
+Bibliothèque intelligente de partitions.
+
+- Recherche
+- IA OpenAI
+- Cache
+- Cloudinary
+
+</td>
+
+<td width="50%">
+
+### 🐍 En ce moment...
+
+- Python
+- IA générative
+- MCP
+- Claude Code
+- Automatisation
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🚧 En ce moment
+## 🛠 Stack
 
-- Développement de projets full stack (en cours)  
-- Approfondissement du backend (API, architecture, base de données)  
-- Travail des fondamentaux (algo, logique, clean code)  
+<table>
+
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind
+
+</td>
+
+<td valign="top" width="33%">
+
+### Backend
+
+- Node.js
+- Express
+- PostgreSQL
+- Drizzle ORM
+- REST API
+
+</td>
+
+<td valign="top" width="33%">
+
+### IA & Cloud
+
+- OpenAI
+- Claude Code
+- OpenRouter
+- Groq
+- MCP
+- Docker
+- Vercel
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🎯 Ce qui me caractérise
+## ❤️ Ce qui m'intéresse
 
-- 🎨 Sens du détail et de l’expérience utilisateur (UX/UI)
-- 🧠 Capacité à comprendre en profondeur et à poser les bonnes questions  
-- 🧩 Approche structurée : logique, organisation, lisibilité du code  
-- 🔁 Habitude de produire, tester, corriger et améliorer  
-
----
-
-## 🌱 En dehors du code
-
-- 🥁 Guitare, Batterie  
-- 🎨 Illustration & création visuelle  
-- 📚 Intérêt pour les projets mêlant tech et créativité  
+- 🤖 IA appliquée au développement
+- ⚙️ Automatisation & workflows
+- 🌍 API & intégrations
+- 🏗️ Architecture d'applications
+- 📈 Développement produit
 
 ---
 
-## 📬 Me contacter
+## 💡 Ma façon de travailler
 
-- LinkedIn : www.linkedin.com/in/patricephiletas 
-- Email : patrice.philetas@gmail.com 
+> Je préfère construire un produit utile qu'une démonstration technique.
+
+J'aime comprendre le besoin métier avant de choisir une solution technique.
+
+L'IA fait partie de mon quotidien, mais je la considère comme un accélérateur de développement et non comme un substitut à la compréhension du code.
+
+---
+
+<h2 align="center">📫 Me contacter</h2>
+
+<p align="center">
+
+📧 <strong>patrice.philetas@gmail.com</strong>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/patricephiletas">
+💼 LinkedIn
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://portfoliopatphiletas.vercel.app/">
+🌐 Portfolio
+</a>
+
+</p>
